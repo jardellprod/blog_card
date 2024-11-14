@@ -62,8 +62,9 @@ body{
 }
 
 .card .card-info > :nth-child(n+4):nth-child(-n+6) {
-    font-weight: lighter;
     line-height: .65;
+    font-size: .90rem;
+    color: hsl(0, 0%, 50%);
 }
 
 .card .card-info > :nth-child(4) {
